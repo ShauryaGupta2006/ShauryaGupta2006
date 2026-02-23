@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Shaurya Gupta<br><br>Backend Developer | Node.js • Express • MongoDB<br><br>I build backend systems that are practical, scalable, and production-oriented.<br><br>Currently focused on backend architecture, authentication systems, and database design. I’ve built and managed real-world projects including a full-stack commerce platform and an SEO-driven movie review website.<br><br>💻 Core Skills<br><br>Backend:<br>Node.js, Express.js, REST APIs, JWT Authentication, MVC Architecture<br><br>Database:<br>MongoDB<br><br>Programming:<br>C • Python • JavaScript<br><br>CS Fundamentals:<br>Data Structures & Algorithms (Arrays, Linked Lists, Stacks, Queues)<br><br>Other Tools:<br>Git • GitHub • Tailwind CSS • Figma • WordPress<br><br>🚀 Projects<br><br>🔹 The Hardware Hub (Full Stack Project)<br><br>Designed modular backend architecture using Node.js & Express<br><br>Implemented JWT + bcrypt authentication with role-based logic<br><br>Integrated MongoDB for user & product data<br><br>Built dynamic UI using EJS + Tailwind CSS<br><br>Managed complete Git-based workflow<br><br>🔹 MovieForecasts.com (SEO-Based Movie Platform)<br><br>Built and managed a movie review platform<br><br>Structured SEO-focused content<br><br>Generated traffic using digital marketing strategies<br><br>Managed CMS and optimized site structure<br><br>🎯 Current Focus<br><br>Scalable backend systems<br><br>Clean API design<br><br>Secure authentication workflows<br><br>Strengthening DSA fundamentals<br><br>⚡ More Powerful Version (If You Want To Stand Out)<br>Backend Developer | Systems Thinking > Just Coding<br><br>I design backend systems that combine structured architecture, authentication logic, and real-world deployment.<br><br>Built:<br><br>A JWT-based full-stack commerce backend<br><br>A 1-year running SEO-driven movie platform<br><br>Multiple backend-focused applications<br><br>Strong in:<br><br>REST API design<br><br>MVC pattern<br><br>Authentication flows<br><br>MongoDB schema design<br><br>Data structures & logic building
 
-<!--
-**ShauryaGupta2006/ShauryaGupta2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaurya-gupta-5581393a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryakanha2@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShauryaGupta2006&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShauryaGupta2006&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaGupta2006&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ShauryaGupta2006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
